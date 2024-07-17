@@ -1,0 +1,113 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "Aboutus_Screen": 16,
+    "App": 1,
+    "Button1": 8,
+    "Button1_1": 14,
+    "Button1_2": 20,
+    "Button2": 9,
+    "Button2_1": 15,
+    "Button2_2": 21,
+    "Gallery1": 6,
+    "Gallery1_1": 12,
+    "Gallery1_2": 18,
+    "galleryTemplate1": 7,
+    "galleryTemplate1_1": 13,
+    "galleryTemplate1_2": 19,
+    "Home_Screen": 4,
+    "Host": 3,
+    "Label1": 5,
+    "Label2": 11,
+    "Label3": 17,
+    "Service_Screen": 10
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/17/2024 02:54:49",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "1046d438-8835-48df-a59c-c9ac3c8ba235": "\"/providers/microsoft.powerapps/apis/shared_office365/connections/shared-office365-f4eaa2fc-15fc-4aa4-b39d-5b324d6908c3\""
+  },
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 1,
+    "Office365Outlook": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "gallery": 1,
+    "label": 0
+  },
+  "OverridablePropertiesEntry": {
+    "Aboutus_Screen": {},
+    "App": {},
+    "Button1": {},
+    "Button1_1": {},
+    "Button1_2": {},
+    "Button2": {},
+    "Button2_1": {},
+    "Button2_2": {},
+    "Gallery1": {},
+    "Gallery1_1": {},
+    "Gallery1_2": {},
+    "galleryTemplate1": {},
+    "galleryTemplate1_1": {},
+    "galleryTemplate1_2": {},
+    "Home_Screen": {},
+    "Host": {},
+    "Label1": {},
+    "Label2": {},
+    "Label3": {},
+    "Service_Screen": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "Aboutus_Screen": 0,
+    "App": 0,
+    "Button1": 3,
+    "Button1_1": 8,
+    "Button1_2": 13,
+    "Button2": 4,
+    "Button2_1": 9,
+    "Button2_2": 14,
+    "Gallery1": 1,
+    "Gallery1_1": 6,
+    "Gallery1_2": 11,
+    "galleryTemplate1": 2,
+    "galleryTemplate1_1": 7,
+    "galleryTemplate1_2": 12,
+    "Home_Screen": 0,
+    "Host": 0,
+    "Label1": 0,
+    "Label2": 5,
+    "Label3": 10,
+    "Service_Screen": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1646211,
+    "ControlCount": {
+      "button": 6,
+      "gallery": 3,
+      "galleryTemplate": 3,
+      "label": 3,
+      "screen": 3
+    },
+    "DeserializationLoadTime": 1.574163
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

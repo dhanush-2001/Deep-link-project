@@ -1,0 +1,22 @@
+App As appinfo:
+    BackEnabled: =true
+    StartScreen: |-
+        =Switch(
+            Param("screen"),
+            "home",
+            Home_Screen,
+            "service",
+            Service_Screen,
+            "aboutus",
+            Aboutus_Screen,
+            Home_Screen
+        )
+    Theme: =PowerAppsTheme
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
+
